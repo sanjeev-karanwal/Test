@@ -1,3 +1,5 @@
 This is a new item once again
 This is a simple text file.
 Testing one more time
+
+System.debug('Checked out now');
